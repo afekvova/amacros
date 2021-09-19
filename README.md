@@ -3,6 +3,8 @@
 
 ### Стек работы
 - Maven
+- Spring
+- lombok
 - Apache Http Client
 - Json
 - Apache POI
